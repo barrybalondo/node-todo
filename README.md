@@ -1,1 +1,1 @@
-A simple todo app made using node
+A simple todo app made using node.
