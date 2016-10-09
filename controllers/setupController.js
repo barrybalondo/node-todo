@@ -1,4 +1,4 @@
-var Todos = require('../models/TodoModel');
+var Todos = require('../models/todoModel');
 
 module.exports = function(app){
 
